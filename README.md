@@ -10,8 +10,8 @@ Day 1 – LLM Session: For questions, please contact Burch Fisher: burch.fisher@
 *Prompts Notebook* 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CGC-UMCES/WORKSHOP-CGC-SCIPE-AI-ML-2025/blob/main/Day1-LLM-Coding/prompts_LLM_coding_tutorial.ipynb)
 
-*Cheats Notebook* 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CGC-UMCES/WORKSHOP-CGC-SCIPE-AI-ML-2025/blob/main/Day1-LLM-Coding/cheats_LLM_coding_tutorial.ipynb)
+*Cheat Notebook* 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CGC-UMCES/WORKSHOP-CGC-SCIPE-AI-ML-2025/blob/main/Day1-LLM-Coding/cheat_LLM_coding_tutorial.ipynb)
 
 Day 2 – ML Session: For questions, please contact Xiaoxu Guo: xguo@umces.edu
 
